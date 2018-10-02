@@ -1,0 +1,6 @@
+Three,isss,Tiga 
+ 
+Two,iss,Dua 
+ 
+Open,is,Satu 
+ 
